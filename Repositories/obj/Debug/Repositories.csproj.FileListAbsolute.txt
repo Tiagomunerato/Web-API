@@ -1,0 +1,9 @@
+C:\Users\tiago\source\repos\Web\Repositories\bin\Debug\Repositories.dll
+C:\Users\tiago\source\repos\Web\Repositories\bin\Debug\Repositories.pdb
+C:\Users\tiago\source\repos\Web\Repositories\bin\Debug\Models.dll
+C:\Users\tiago\source\repos\Web\Repositories\bin\Debug\Models.pdb
+C:\Users\tiago\source\repos\Web\Repositories\obj\Debug\Repositories.csproj.AssemblyReference.cache
+C:\Users\tiago\source\repos\Web\Repositories\obj\Debug\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\tiago\source\repos\Web\Repositories\obj\Debug\Repositories.csproj.CopyComplete
+C:\Users\tiago\source\repos\Web\Repositories\obj\Debug\Repositories.dll
+C:\Users\tiago\source\repos\Web\Repositories\obj\Debug\Repositories.pdb
